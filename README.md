@@ -26,8 +26,8 @@ import (
 )
 
 func main() {
-    fmt.Println(golib.Add(2,3))
-    fmt.Println(golib.Subtract(2,3))
+    fmt.Println(rs.GenerateRandomString(10))
+    fmt.Println(rs.GenerateRandomString(15))
 }
 ```
 
