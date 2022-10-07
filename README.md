@@ -1,4 +1,4 @@
-# github.com/mitchallen/go-lib
+# github.com/matheusrazzup/ramdomstring
 
 ## Usage
 
